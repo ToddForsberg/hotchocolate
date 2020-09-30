@@ -5,10 +5,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Models" />
-    </ItemGroup>
-
-    <ItemGroup>
       <PackageReference Include="HotChocolate.ApolloFederation" Version="11.0.0-preview.147" />
       <PackageReference Include="HotChocolate.AspNetCore" Version="11.0.0-preview.147" />
       <PackageReference Include="HotChocolate.AspNetCore.Playground" Version="10.5.3" />
